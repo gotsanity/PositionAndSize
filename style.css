@@ -1,0 +1,41 @@
+h1 {
+    color: blue;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.green {
+    background-color: green;
+}
+
+.nogutter {
+    margin: 0;
+    padding: 0;
+}
+
+.spacebefore {
+    margin-top: 1.0em;
+}
+
+.border {
+    border: 1px yellow solid;
+}
+
+.pad {
+    padding: 10px;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.content {
+    background-color: blue;
+}
